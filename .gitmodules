@@ -4,3 +4,6 @@
 [submodule "depends_github/ranger"]
 	path = depends_github/ranger
 	url = https://github.com/ranger/ranger.git
+[submodule "depends_github/vimplus"]
+	path = depends_github/vimplus
+	url = https://github.com/chxuan/vimplus.git
