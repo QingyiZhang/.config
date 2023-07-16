@@ -1,3 +1,6 @@
 [submodule "depends_github/lazygit"]
 	path = depends_github/lazygit
 	url = https://github.com/jesseduffield/lazygit.git
+[submodule "depends_github/ranger"]
+	path = depends_github/ranger
+	url = https://github.com/ranger/ranger.git
